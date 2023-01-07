@@ -5,7 +5,7 @@ function Navbar(){
         <div>
         <Link href = "/">Home</Link>
         <Link href = "/about">About</Link>
-        <Link href = "/">Home</Link>
+        <Link href = "/contact">Contact</Link>
         </div>
     )
 }
