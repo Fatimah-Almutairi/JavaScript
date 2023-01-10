@@ -3,5 +3,5 @@
 //   }
 
 export default function About() {
-     <div>About</div>
+     <h1>About</h1>
   }
