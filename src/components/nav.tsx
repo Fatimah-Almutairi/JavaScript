@@ -17,7 +17,7 @@ function Nav() {
           <Box fontSize='1.2em'>BSKIN</Box>
           <Box>
           <Flex alignItems={'center'}>
-            <Stack direction={'row'} spacing={7}>
+            <Stack direction={'row'} gap={12}>
             <Text color={'#1F5373'}fontSize='1.2em' fontFamily='inherit'>Home Page</Text>
             <Text color={'#1F5373'}fontSize='1.2em' fontFamily='inherit'>About Us</Text>
             <Text color={'#1F5373'}fontSize='1.2em' fontFamily='inherit'> Contact</Text>
@@ -26,9 +26,9 @@ function Nav() {
           </Box>
 
           <Box>
-            <Flex>
-                <Image maxW={50} src='./bag.png'></Image>
-                <Image maxW={50} src='./user.png'></Image>
+            <Flex gap={6}>
+                <Image maxW='40px' src='./bag.png'></Image>
+                <Image maxW='40px' src='./user.png'></Image>
             </Flex>
           </Box>
         </Flex>
