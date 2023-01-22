@@ -14,7 +14,7 @@ function Nav() {
     <>
       <Box bg={useColorModeValue('gray.100', 'gray.900')} px={4}>
         <Flex h={16} alignItems={'center'} justifyContent={'space-around'}>
-          <Box fontSize='1.2em'>BSKIN</Box>
+          <Box fontFamily='fantasy' fontSize='1.4em'>BSKIN</Box>
           <Box>
           <Flex alignItems={'center'}>
             <Stack direction={'row'} gap={12}>
