@@ -27,7 +27,7 @@ function Nav() {
 
           <Box>
             <Flex gap={6}>
-                <Image maxW='40px' src='./bag.png'></Image>
+                <Image  maxW='40px' src='./bag.png'></Image>
                 <Image maxW='40px' src='./user.png'></Image>
             </Flex>
           </Box>
