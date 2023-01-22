@@ -28,6 +28,7 @@ function Nav() {
           <Box>
             <Flex>
                 <Image maxW={50} src='./bag.png'></Image>
+                <Image maxW={50} src='./user.png'></Image>
             </Flex>
           </Box>
         </Flex>
