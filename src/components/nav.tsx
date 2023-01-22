@@ -3,8 +3,10 @@ import {
   Flex,
   useColorModeValue,
   Stack,
-  Text
+  Text,
+  Image
 } from '@chakra-ui/react';
+import { Link } from 'react-router-dom';
 
 
 function Nav() {
@@ -24,7 +26,9 @@ function Nav() {
           </Box>
 
           <Box>
-
+            <Flex>
+                <Image maxW={50} src='./bag.png'></Image>
+            </Flex>
           </Box>
         </Flex>
       </Box>
