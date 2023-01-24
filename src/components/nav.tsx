@@ -16,6 +16,8 @@ function Nav() {
         <Flex h={16} alignItems={'center'} justifyContent={'space-around'}>
             {/* Logo */}
           <Box fontFamily='fantasy' fontSize='1.4em'>BSKIN</Box>
+
+          {/* Category */}
           <Box>
           <Flex alignItems={'center'}>
             <Stack direction={'row'} gap={12}>
