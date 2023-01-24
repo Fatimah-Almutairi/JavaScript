@@ -28,6 +28,7 @@ function Nav() {
           </Flex>
           </Box>
 
+          {/* bag & profile */}
           <Box>
             <Flex gap={6}>
                 <Image  maxW='40px' src='./bag.png'></Image>
