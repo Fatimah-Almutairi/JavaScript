@@ -4,7 +4,7 @@ import{ Image } from '@chakra-ui/react';
 function homepage() {
   return (
     <div>
-        <Image src='./'></Image>
+        <Image src='./homepage.png'></Image>
     </div>
   )
 }
