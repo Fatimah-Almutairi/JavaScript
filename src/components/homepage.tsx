@@ -6,7 +6,7 @@ function homepage() {
   return (
     <div>
         <Image src='./homepage.png'></Image>
-        <Text ></Text>
+        <Text >Somthing Text here for homepage</Text>
     </div>
   )
 }
