@@ -5,8 +5,10 @@ import{ Image ,
 function homepage() {
   return (
     <div>
-        <Image src='./homepage.png'></Image>
-        <Text >Somthing Text here for homepage</Text>
+        {/* <Image src='./homepage.png'></Image>
+        <Text >Somthing Text here for homepage</Text> */}
+
+        
     </div>
   )
 }
