@@ -38,6 +38,7 @@ export default function Carousel() {
   return (
     <Box
       position={'relative'}
+    alignContent={'center'}
       height={'600px'}
       width={'3xl'}
       overflow={'hidden'}>
