@@ -21,7 +21,7 @@ const settings = {
 export default function Carousel() {
   // As we have used custom buttons, we need a reference variable to
   // change the state
-  const [slider, setSlider] = React.useState<Slider | null>(null);
+  const [slider, setSlider] = React.useState <Slider | null>(null);
 
   // These are the breakpoints which changes the position of the
   // buttons as the screen size changes
@@ -39,7 +39,7 @@ export default function Carousel() {
     <Box
       position={'relative'}
       height={'600px'}
-      width={'full'}
+      width={'3xl'}
       overflow={'hidden'}>
       {/* CSS files for react-slick */}
       <link
