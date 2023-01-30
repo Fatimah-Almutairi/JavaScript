@@ -40,7 +40,6 @@ export default function Carousel() {
       position={'relative'}
       justifyContent={'center'}
       alignContent={'center'}
-      alignItems={'center'}
       height={'500px'}
       width={'3xl'}
       overflow={'hidden'}>
