@@ -38,6 +38,7 @@ export default function Carousel() {
   return (
     <Box
       position={'relative'}
+      left={'25%'}
     //   justifyContent={'center'}
       height={'400px'}
       width={'3xl'}
