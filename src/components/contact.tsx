@@ -1,9 +1,9 @@
-import React from 'react'
+// import React from 'react'
 
-function contact() {
-  return (
-    <div>contact</div>
-  )
-}
+// function contact() {
+//   return (
+//     <div>contact</div>
+//   )
+// }
 
-export default contact
+// export default contact
