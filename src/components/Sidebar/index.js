@@ -30,6 +30,11 @@ const Sidebar = () => (
                     <FontAwesomeIcon icon={faLinkedin} color='#4d4d4e' />
                 </a>
             </li>
+            <li>
+                <a target='_blank' rel='noreferrer' href='#' >
+                    <FontAwesomeIcon icon={faLinkedin} color='#4d4d4e' />
+                </a>
+            </li>
         </ul>
     </div>
 )
