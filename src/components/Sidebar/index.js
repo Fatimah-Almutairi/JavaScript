@@ -27,7 +27,7 @@ const Sidebar = () => (
         <ul>
             <li>
                 <a target='_blank' rel='noreferrer' href='#' >
-                    <FontAwesomeIcon icon={faLinkedin} color=''
+                    <FontAwesomeIcon icon={faLinkedin} color='#4d4d4e' />
                 </a>
             </li>
         </ul>
