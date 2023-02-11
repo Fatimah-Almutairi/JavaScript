@@ -1,1 +1,1 @@
-const Home = () => 
+const Home = () => ('Hello')
