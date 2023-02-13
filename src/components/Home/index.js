@@ -19,7 +19,10 @@ const Home = () => {
                 strArray={nameArray}
                 index={15} />
                 <br />
-                Web Developer
+                {/* Web Developer */}
+                <AnimatedLetters letterClass={letterClass}
+                strArray={nameArray}
+                index={15} />
                 </h1>
                 <h2>Full Stack Developer</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
