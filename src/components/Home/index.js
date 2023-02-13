@@ -21,7 +21,7 @@ const Home = () => {
                 <br />
                 {/* Web Developer */}
                 <AnimatedLetters letterClass={letterClass}
-                strArray={nameArray}
+                strArray={jobArray}
                 index={15} />
                 </h1>
                 <h2>Full Stack Developer</h2>
