@@ -12,7 +12,9 @@ const Home = () => {
     return (
         <div className='container home-page'>
             <div className='text-zone'>
-                <h1><span className={letterClass}>H</span>i, <br /> I'm 
+                <h1><span className={letterClass}>H</span>
+                <span className={ `${letterClass} _12`}>i</span>
+                <br /> I'm 
                 <img src={LogoTitle} alt='developer' />
                 {/* Fatimah  */}
                 <AnimatedLetters letterClass={letterClass}
