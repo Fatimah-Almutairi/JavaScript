@@ -11,7 +11,7 @@ const Home = () => {
 
     return (
         <div className='container home-page'>
-            <div className='text-zone'>
+            {/* <div className='text-zone'>
                 <h1><span className={letterClass}>H</span>
                 <span className={ `${letterClass} _12`}>i</span>
                 <br />
@@ -30,7 +30,7 @@ const Home = () => {
                 </h1>
                 <h2>Full Stack Developer</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
-            </div>
+            </div> */}
         </div>
     )
 }
