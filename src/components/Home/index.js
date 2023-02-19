@@ -26,7 +26,7 @@ const Home = () => {
                 {/* Web Developer */}
                 <AnimatedLetters letterClass={letterClass}
                 strArray={jobArray}
-                index={15} />
+                index={22} />
                 </h1>
                 <h2>Full Stack Developer</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
